@@ -130,3 +130,42 @@ Last SvS prep phase day! All the best guys 🎉
 
 > Bear Hunt at 14:00 UTC 
 ```
+
+## SvS battle rules:
+#### Alliance Message
+```
+1749 and 1687 SVS Agreement
+- SEVERE punishment will apply to anyone that breaks the rules !
+
+🌟 Castle Battle Location
+✅ 1749 - western half (left half of the castle)
+🚫 1687 - eastern half (right half of the castle)
+
+🌟 Before SVS Castle Battle
+🚫 NO attacks to 1687 members. Please honor this agreement 
+
+🌟 During and 30 minutes after SVS Castle Battle Ends
+🚫 NO city attacks are allowed in the red zone and surrounding areas of the castle.
+```
+```
+------- SVS Castle Battle Info------
+- Borders Open: 10:00 UTC 
+- Castle Battle starts: 12:00UTC  
+🔰 stay shielded from 10:00 - 22:00 UTC if offline for safety 
+--------------------------------------
+Castle Battle Location:  
+- 1749: Western half (left side)
+- 1687: Eastern half (right side)
+--------------------------------------
+🚫 Before Battle: No attacks on 1749 members 
+🚫 During & 30 minutes after: No city attacks in the red zone
+```
+
+#### Alliance Notice
+```
+> !!! SVS prep pase: - upgrade Chief Gear - Use Speedups - Hero Gear upgrades - Pet upgrades 
+> 10 UTC - 22 UTC - State Battle 
+> 12 UTC - 18 UTC - Castle Battle
+Make sure to stay shielded nonstop if offline. You may use a 24-hour shield now if not participating for this battle.
+> SVS battle participants: please wait for instructions of R5/R4 
+```
