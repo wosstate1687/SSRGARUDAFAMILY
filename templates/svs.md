@@ -166,6 +166,20 @@ Castle Battle Location:
 > !!! SVS prep pase: - upgrade Chief Gear - Use Speedups - Hero Gear upgrades - Pet upgrades 
 > 10 UTC - 22 UTC - State Battle 
 > 12 UTC - 18 UTC - Castle Battle
-Make sure to stay shielded nonstop if offline. You may use a 24-hour shield now if not participating for this battle.
+Make sure to stay shielded nonstop if offline. 
 > SVS battle participants: please wait for instructions of R5/R4 
+```
+## SvS Revival Phase
+#### Alliance Notice
+```
+> Bear #1 at 14:00 UTC
+> Bear #2 at 15:00 UIC
+
+> Recommended heal time = 20 min
+
+> Request assistance for your troops:
+> Events --> State of Power tab --> Troop Revival --> Request Assistance 
+
+> Assist others with their losses:
+> Events --> State of Power tab --> Assist Ally
 ```
