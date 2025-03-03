@@ -33,6 +33,24 @@ So,
 
 When **opening** a rally, **all Expeditionary skills** from your squad’s heroes will be activated. **SSR (Yellow)** heroes are optimal for rally leaders due to their versatile combination of offensive and defensive skills provided by their three Expeditionary skills. However, preference should be given to heroes whose skills are developed to the maximum level. Additionally, the source of the bonus troops (including the chief's battle tech power, hero power, hero gear power, chief charm power, and pet power) in the rally always comes from the rally leader. Therefore, the strongest heroes should be prioritized to maximize the rally’s effectiveness.
 
+#### **Recommended Heroes for Rally Leaders**
+
+##### **Infantry Heroes**
+- **Jeronimo** (VIP): *Skills: **Damage Up**, **Attack Up**, **Stun Chance***
+- **Natalia** (VIP): *Skills: **Stun Chance**, **Attack Up**, **Damage Up***
+- **Flint** (F2P friendly): *Skills: **Damage Up Chance**, **Attack Up**, **Enemy Damage Taken Down***
+- **Sergey** (F2P friendly): *Skills: **Damage Taken Down**, **Enemy Troops Attack Down***
+
+##### **Lancer Heroes**
+- **Molly** (F2P friendly): *Skills: **Stun Chance**, **Damage Up**, **Damage Up Chance***
+- **Mia** (F2P friendly): *Skills: **Enemy Damage Taken Up**, **Damage Up**, **Damage Taken Down***
+- **Philly**: *Skills: **Attack Up + Defense Up**, **Damage Up**, **Stun Chance***
+
+##### **Marksman Heroes**
+- **Alonso** (F2P friendly): *Skills: **Stun Chance**, **Enemy Damage Down**, **Damage Up***
+- **Bahiti** (F2P friendly): *Skills: **Damage Taken Down**, **Damage Up***
+
+**Possible combinations:** Jeronimo-Molly-Bahiti, Natalia-Molly-Bahiti, Flint-Molly-Alonso, Flint-Mia-Alonso
 
 ### Managing Rallies
 To view which Heroes are boosting the rally, select the rally and click on the small flag icon above the list of participating squads. This screen will display the Rally Bonus and its sources. Scroll to the bottom to see the current lead Heroes from rally joiners contributing to the buffs. Rally leaders should monitor this closely and remove any marches with irrelevant Expedition Skills.
