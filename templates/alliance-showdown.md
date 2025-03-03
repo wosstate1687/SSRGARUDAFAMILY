@@ -7,7 +7,7 @@ The Alliance Showdown event starts today! Let's earn decorations for the island.
 
 Focus on:
 - Construction 🚧
-- Fire Crystals/Shards 
+- Fire Crystals 
 - Speedups  (Construction, Research, and Training)
 - Gathering Resources 🍖
 ```
@@ -20,7 +20,7 @@ Extra Tips:
 
 #### Alliance Notice: 
 ```
-> Alliance Showdown Day 1: Gather, use fire crystals and hero shards, use speedups (construction buff is active) 
+> Alliance Showdown Day 1: Gather, use fire crystals, use speedups (construction buff is active) 
 > Enter Middle Lane in Alliance Championship with 50/20/30 troop ratio 
 > Vote for Foundry Time 
 > Send and Raid trucks 
