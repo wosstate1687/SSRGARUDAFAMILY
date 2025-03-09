@@ -15,7 +15,7 @@ A **Squad** consists of up to 3 heroes: one **Lancer**, one **Marksman**, and on
 ### **Joining a Rally**
 - When **joining** a rally, only the **#1 Expedition skill** (top-right skill) of your **first hero** will be activated.
 - If the **first 4 players** to join have **Level 5 top-right skills**, those will be activated, regardless of what heroes others join with.
-- If the **first 4 players** have skills at different levels, and someone joins with a **higher-level skill of the same hero**, it will replace the skill with the lower level. The **highest-level skill** always takes priority.
+- If the **first 4 players** have skills at different levels, and someone joins with a **higher-level skill of the same hero**, it will replace the skill with the lower level.
 
 #### **Recommended Heroes for Rally Members**
 - **Best choice**:
@@ -63,5 +63,20 @@ When **opening** a rally, **all Expeditionary skills** from your squad’s heroe
 ![dnplayer_zxNvKR4YD4](https://github.com/user-attachments/assets/d87f38e3-a6e5-40d3-bb83-df8b4c9d0834)
 
 ## Garrison
+In **garrison battles**, the player with the highest stat bonuses provides defense bonuses, and 4 primary hero skills from other garrison members are activated for the battle.
 
 ## Troops Ratio
+In **expedition battles**, the formation typically places **Infantries** in the front row as the primary damage absorbers, while **Lancers**, with their mobility, are positioned in the middle row. **Marksmen**, who provide the highest single-target damage, are placed in the back row.
+
+The expedition battles are **turn-based**. During each turn, both sides select targets and attack simultaneously. Once all units have taken their actions and damage is calculated, the next turn begins. The battle ends when one side loses all its troops, and the other side is declared the winner.
+
+Typically, units target the **front row** first (ifantries). Once it’s eliminated, they move to the next row. **Lancers** may use their skills to attack **Marksmen** in the back row, bypassing the front lines (infantry and lancers). Some **hero skills** can target all units or specific types.
+
+After battles, the number of **dead**, **severely injured**, **lightly injured**, and **survivors** is calculated. Casualty rates vary based on the battle type,for instance:
+- In **City battles**, 35% of the attacker’s casualties die.
+- In **Sunfire Castle**,  no losses, casualties go to the Infirmary until it’s full, then they die. Turrets have casuality rate 2%.
+- **Facility battles** have the following outcomes based on the facility level:
+  - Level 1-3: No losses, but 10-30% heavily injured
+  - Level 4: 10% losses, 30% heavily injured
+
+Before battles, it’s important to **strategize your troop composition**. Adjust the ratios of **Infantry**, **Lancers**, and **Marksmen** to ensure sufficient damage absorption in the front row and provide your back-row units with more room to deal damage, giving you a better chance of victory.
