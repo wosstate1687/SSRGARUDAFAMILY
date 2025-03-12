@@ -12,25 +12,23 @@ SAVE FOR SVS
  Essence Stones and Mithril 
  Gems for Lucky Wheel
 ```
+
 #### Alliance Message (send on Friday): 
 ```
-Hi there! Please remove the hero gear on Friday 🙏.
-You can return it after the weekend, once the SvS Matchmaking Phase ends.
-During this time, our state should appear weaker to our opponents until the SvS prep week begins.
+Hi! Please remove your hero gear on Friday 🙏.
+If you can, also clear your drill camp and reset the levels of all heroes.
+You can re-equip your gear after the weekend, once the SvS Matchmaking Phase ends. This will help our state appear weaker to opponents until the SvS prep week begins. Thanks for your support!
 ```
 
 -------------------------------------
 *request to fill out the form:*
 ```
-Hey everyone! We're gathering info on speedups and resources for SvS planning.
-Based on this, we'll assign slots for the Ministry of Education and Vice President
-to those with the most speedups  and firecrystals . So, if you have time, please, fill out next form:
+Hey everyone! We're collecting data on speedups and resources for SvS planning.
+Based on this information, we'll assign Ministry of Education and Vice President slots to those with the most speedups  and firecrystals .
+If you have a moment, please fill out the form below. Thanks!
 ```
-*send link*
+*link*
 
-```
-If you run into any trouble filling out the form, don't hesitate to reach out – I'm happy to help!
-```
 ## SvS preparation phase
 
 ### Day 1:
